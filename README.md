@@ -1,5 +1,5 @@
 ## Portfolio
-Hello! I'm Cristopher Nicholas, a data scientist, software developer, and consultant with a passion for turning data into actionable insights. With experience across data analytics, business intelligence, climate data management, and ICT support, I help businesses solve challenges and unlock growth.
+I’m a Data Scientist, Software Developer, and Research Consultant who transforms data and technology into practical solutions. My experience spans data analytics, business intelligence, machine learning, climate data management, software development, and ICT support. I enjoy solving real-world problems, building useful digital solutions, and helping organizations turn complex information into actionable insights that drive better decisions and growth.
 ## WHAT I Do
 
 As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.

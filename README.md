@@ -1,12 +1,32 @@
 ## Portfolio
 I’m a Data Scientist, Software Developer, and Research Consultant who transforms data and technology into practical solutions. My experience spans data analytics, business intelligence, machine learning, climate data management, software development, and ICT support. I enjoy solving real-world problems, building useful digital solutions, and helping organizations turn complex information into actionable insights that drive better decisions and growth.
-## WHAT I Do
+## SKILLS
+### Skills
 
-As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.
+**Data Science & Analytics**
+Data Analysis, Machine Learning, Statistical Analysis, Predictive Analytics, Data Cleaning, Data Visualization, and Research Analytics.
 
-•⁠  ⁠Data Analytics Consulting. I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth.
+**Business Intelligence**
+Power BI, Dashboard Development, KPI Reporting, Business Reporting, Data-Driven Decision Making, and Performance Analysis.
 
-•⁠  ⁠Staff Training & Development. I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels.
+**Programming & Databases**
+Python, R, SQL, Java, STATA, MySQL, SQLite, Database Management, and Data Processing.
+
+**Software & Web Development**
+PHP, JavaScript, HTML, CSS, Software Development, Web Applications, Database Integration, and System Testing.
+
+**Data Engineering & Automation**
+ETL, Data Pipelines, Data Transformation, Workflow Automation, Data Quality, and Database Optimization.
+
+**GIS & Climate Data**
+ArcGIS, Climate Data Management, Spatial Data Analysis, CHIRPS Data Analysis, and Hydrometeorological Data Processing.
+
+**ICT & Technical Support**
+ICT Support, Hardware and Software Troubleshooting, Networking Support, System Administration, User Support, and Technical Problem Solving.
+
+**Professional Skills**
+Research, Analytical Thinking, Problem Solving, Communication, Teamwork, Attention to Detail, Stakeholder Engagement, Adaptability, and Time Management.
+
 # MY PORTFOLIO
 
 A glimpse of some of the projects I've been working on.

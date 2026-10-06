@@ -31,7 +31,7 @@ A glimpse of some of the projects I've been working on.
 
  **Logistic regression model for predicting Ride-hailing customer churn.**
 
- ![image]()
+ ![image](numerical Features Histogram.png)
 
  
  [Read more]()

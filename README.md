@@ -35,15 +35,19 @@ A glimpse of some of the projects I've been working on.
 
  
  [Read more](ride-hailing.ipynb)
+ 
  ## Hotel Management System
   ![image]()
  [Read more]()
+ 
  ## Hospital Management System
  ![image]()
  [Read more]()
+ 
 ## LPG Gas Delivery & Ordering Management System
  ![image]()
  [Read more]()
+ 
 ## Python Desktop ERP – Quotation & Invoice Management System
  ![image]()
  [Read more]()

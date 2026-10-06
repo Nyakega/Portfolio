@@ -1,29 +1,20 @@
 ## Portfolio
 I’m a Data Scientist, Software Developer, and Research Consultant who transforms data and technology into practical solutions. My experience spans data analytics, business intelligence, machine learning, climate data management, software development, and ICT support. I enjoy solving real-world problems, building useful digital solutions, and helping organizations turn complex information into actionable insights that drive better decisions and growth.
 ## SKILLS
-### Skills
-
 **Data Science & Analytics**
 Data Analysis, Machine Learning, Statistical Analysis, Predictive Analytics, Data Cleaning, Data Visualization, and Research Analytics.
-
 **Business Intelligence**
 Power BI, Dashboard Development, KPI Reporting, Business Reporting, Data-Driven Decision Making, and Performance Analysis.
-
 **Programming & Databases**
 Python, R, SQL, Java, STATA, MySQL, SQLite, Database Management, and Data Processing.
-
 **Software & Web Development**
 PHP, JavaScript, HTML, CSS, Software Development, Web Applications, Database Integration, and System Testing.
-
 **Data Engineering & Automation**
 ETL, Data Pipelines, Data Transformation, Workflow Automation, Data Quality, and Database Optimization.
-
 **GIS & Climate Data**
 ArcGIS, Climate Data Management, Spatial Data Analysis, CHIRPS Data Analysis, and Hydrometeorological Data Processing.
-
 **ICT & Technical Support**
 ICT Support, Hardware and Software Troubleshooting, Networking Support, System Administration, User Support, and Technical Problem Solving.
-
 **Professional Skills**
 Research, Analytical Thinking, Problem Solving, Communication, Teamwork, Attention to Detail, Stakeholder Engagement, Adaptability, and Time Management.
 

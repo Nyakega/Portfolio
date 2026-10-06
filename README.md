@@ -42,7 +42,7 @@ A glimpse of some of the projects I've been working on.
   
  [Read more]()
  
- ## Hospital Management System
+## Hospital Management System
  
  ![image]()
  
@@ -60,7 +60,7 @@ A glimpse of some of the projects I've been working on.
  
  [Read more]()
  
- ## Contact Details
+## Contact Details
 
  
  <a href ="">Download the Resume/CV Here(pdf file)</a>

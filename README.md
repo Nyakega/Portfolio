@@ -29,4 +29,4 @@ Research, Analytical Thinking, Problem Solving, Communication, Teamwork, Attenti
 
 A glimpse of some of the projects I've been working on.
 
-Predictive Modeling and Hypothesis Testing using Titanic Dataset.
+ **Logistic regression model for predicting Ride-hailing customer churn.**

@@ -24,7 +24,7 @@ ICT Support, Hardware and Software Troubleshooting, Networking Support, System A
 
 **Professional Skills;**
 Research, Analytical Thinking, Problem Solving, Communication, Teamwork, Attention to Detail, Stakeholder Engagement, Adaptability, and Time Management.
-
+<!--Section 2: List 3-4 key projects-->
 ## MY PORTFOLIO
 
 A glimpse of some of the projects I've been working on.

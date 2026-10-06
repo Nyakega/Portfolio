@@ -2,6 +2,7 @@
 I’m a Data Scientist, Software Developer, and Research Consultant who transforms data and technology into practical solutions. My experience spans data analytics, business intelligence, machine learning, climate data management, software development, and ICT support. I enjoy solving real-world problems, building useful digital solutions, and helping organizations turn complex information into actionable insights that drive better decisions and growth.
 ## SKILLS
 **Data Science & Analytics**
+
 Data Analysis, Machine Learning, Statistical Analysis, Predictive Analytics, Data Cleaning, Data Visualization, and Research Analytics.
 **Business Intelligence**
 Power BI, Dashboard Development, KPI Reporting, Business Reporting, Data-Driven Decision Making, and Performance Analysis.

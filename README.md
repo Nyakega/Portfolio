@@ -52,7 +52,7 @@ A glimpse of some of the projects I've been working on.
 
  ![image]()
  
- [Read more]()
+ [Read more]("https://github.com/Nyakega/LPG-Gas-Delivery-Odering-System")
  
 ## Python Desktop ERP – Quotation & Invoice Management System
 

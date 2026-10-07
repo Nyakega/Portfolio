@@ -36,7 +36,7 @@ A glimpse of some of the projects I've been working on.
  
  [Read more](ride-hailing.ipynb)
  
- ## Hotel Management System
+## Hotel Management System
  
   ![image]()
   

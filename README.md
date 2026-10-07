@@ -62,5 +62,26 @@ A glimpse of some of the projects I've been working on.
  
 ## Contact Details
 
- 
+ <table border="0">
+  <tr>
+    <td width="30" align="center">📧</td>
+    <td><a href="mailto:cristophernyakego3@gmail.com">cristophernyakego3@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td width="30" align="center">📞</td>
+    <td><a href="tel:+254707249537">+254 707 249 537</a> / <a href="tel:+254716858360">+254 716 858 360</a></td>
+  </tr>
+  <tr>
+    <td width="30" align="center">📍</td>
+    <td>Mombasa / Kwale County, Kenya</td>
+  </tr>
+  <tr>
+    <td width="30" align="center">📥</td>
+    <td><a href="assets/resume.pdf"><strong>Download my CV / Resume (PDF)</strong></a></td>
+  </tr>
+  <tr>
+    <td width="30" align="center">🌐</td>
+    <td><a href="https://linkedin.com/in/your-linkedin-profile">Connect with me on LinkedIn</a></td>
+  </tr>
+</table>
  <a href ="">Download the Resume/CV Here(pdf file)</a>

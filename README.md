@@ -44,13 +44,14 @@ A glimpse of some of the projects I've been working on.
  
 ## Hospital Management System
  
- ![image]()
+ ![image](Hospital home Dashboard.png)
  
  [Read more](https://github.com/Nyakega/Hospital-Management-System)
  
 ## LPG Gas Delivery & Ordering Management System
 
  ![image](Odering section.png)
+ ![image]()
  
  [Read more](https://github.com/Nyakega/LPG-Gas-Delivery-Odering-System)
  

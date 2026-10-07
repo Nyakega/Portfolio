@@ -49,7 +49,9 @@ A glimpse of some of the projects I've been working on.
  [Read more](https://github.com/Nyakega/Hospital-Management-System)
  
 ## LPG Gas Delivery & Ordering Management System
+
  ![image](Odering section.png)
+ 
  ![image](Admin Panel section for Orders Manage.png)
  
  [Read more](https://github.com/Nyakega/LPG-Gas-Delivery-Odering-System)

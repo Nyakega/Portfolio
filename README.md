@@ -40,7 +40,7 @@ A glimpse of some of the projects I've been working on.
  
   ![image]()
   
- [Read more]()
+ [Read more](https://github.com/Nyakega/HOTEL-WEB-PROJECT)
  
 ## Hospital Management System
  

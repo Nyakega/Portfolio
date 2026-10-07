@@ -50,7 +50,7 @@ A glimpse of some of the projects I've been working on.
  
 ## LPG Gas Delivery & Ordering Management System
 
- ![image]()
+ ![image](Odering section.png)
  
  [Read more](https://github.com/Nyakega/LPG-Gas-Delivery-Odering-System)
  

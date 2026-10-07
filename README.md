@@ -43,17 +43,15 @@ A glimpse of some of the projects I've been working on.
  [Read more](https://github.com/Nyakega/HOTEL-WEB-PROJECT)
  
 ## Hospital Management System
-**Odering Page**
- 
+
  ![image](Hospital home Dashboard.png)
  
- **Order Management**
  [Read more](https://github.com/Nyakega/Hospital-Management-System)
  
 ## LPG Gas Delivery & Ordering Management System
-
+**Odering Page**
  ![image](Odering section.png)
- 
+ **Order Management**
  ![image](Admin Panel section for Orders Manage.png)
  
  [Read more](https://github.com/Nyakega/LPG-Gas-Delivery-Odering-System)

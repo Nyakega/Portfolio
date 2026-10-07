@@ -73,7 +73,7 @@ A glimpse of some of the projects I've been working on.
   </tr>
   <tr>
     <td width="30" align="center">📍</td>
-   <td>Nairobi / Nirobi County, Kenya</td>
+   <td>Nairobi / Nairobi County, Kenya</td>
     <td>Mombasa / Mombasa County, Kenya</td>
   </tr>
   <tr>

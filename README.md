@@ -73,7 +73,8 @@ A glimpse of some of the projects I've been working on.
   </tr>
   <tr>
     <td width="30" align="center">📍</td>
-    <td>Mombasa / Kwale County, Kenya</td>
+   <td>Nairobi / Nirobi County, Kenya</td>
+    <td>Mombasa / Mombasa County, Kenya</td>
   </tr>
   <tr>
     <td width="30" align="center">📥</td>
@@ -81,7 +82,7 @@ A glimpse of some of the projects I've been working on.
   </tr>
   <tr>
     <td width="30" align="center">🌐</td>
-    <td><a href="https://linkedin.com/in/your-linkedin-profile">Connect with me on LinkedIn</a></td>
+    <td><a href="www.linkedin.com/in/cristopher-nicholas-9b3584240">Connect with me on LinkedIn</a></td>
   </tr>
 </table>
  <a href ="">Download the Resume/CV Here(pdf file)</a>
